@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{73D73F85-A715-4611-9C29-A3B73655AE0E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HackerRankProblems.cs">
+    <Files>
+      <File FileName="HackerRankProblems.cs" Line="46" Column="14" />
+      <File FileName="Anagrams.cs" Line="5" Column="36" />
+      <File FileName="AbsProblem.cs" Line="64" Column="34" />
+      <File FileName="Program.cs" Line="9" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HackerRank" expanded="True">
+            <Node name="HackerRank" expanded="True">
+              <Node name="HackerRankProblems.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HackerRank PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jSonKang/Projects/HackerRankProblems/HackerRank/ApplesAndOranges.cs" relfile="ApplesAndOranges.cs" line="50" column="27" />
+      <Breakpoint file="/Users/jSonKang/Projects/HackerRankProblems/HackerRank/ApplesAndOranges.cs" relfile="ApplesAndOranges.cs" line="62" column="18" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
